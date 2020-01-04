@@ -11,6 +11,6 @@ Learnt this from youtube!
 
 I didn't have mirin so I put apple cider vinegar; added sugar, salt, soy sauce, didn't have dashi so it was left out.
 
-![tamagoyaki-0](/assets/images/tamagoyaki-0.jpg)
+![tamagoyaki-0](/images/tamagoyaki-0.jpg)
 
-![tamagoyaki-1](/assets/images/tamagoyaki-1.jpg)
+![tamagoyaki-1](/images/tamagoyaki-1.jpg)

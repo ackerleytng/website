@@ -8,4 +8,4 @@ tags:
 - potatoes
 title: Sunday Special Dinner
 ---
-![fried-okra-0](/assets/images/pan-fried-chicken-potatoes.jpg)
+![fried-okra-0](/images/pan-fried-chicken-potatoes.jpg)

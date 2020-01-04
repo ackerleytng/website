@@ -43,7 +43,7 @@ In iTerm2, the trigger can pick up the string and in turn start a coprocess with
 
 The following plugin, written for Terminator, will give you a similar effect, except you have to right click on the part between `[[[` and `]]]`, and click open link.
 
-[Download](/assets/downloads/activate_emacs.py)
+[Download](/downloads/activate_emacs.py)
 
 Place that file in /usr/share/terminator/terminatorlib/plugins/activate_emacs.py and restart Terminator, then right click and click Preferences, go to the Plugins tab and check the ActivateEmacs plugin.
 

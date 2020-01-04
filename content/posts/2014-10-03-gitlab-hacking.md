@@ -30,7 +30,7 @@ Needs permission to write, so change permissions for public folder
 
 ## Add all accepted mimetypes to this file
 
-    /opt/gitlab/embedded$ sudo vim service/gitlab-rails/app/assets/javascripts/markdown_area.js.coffee
+    /opt/gitlab/embedded$ sudo vim service/gitlab-rails/app/javascripts/markdown_area.js.coffee
     acceptedFiles: "image/*,audio/*,video/*,application/*,text/*"
 
 ## Disable checking of extensions
@@ -47,7 +47,7 @@ with
 
 ## Change the function formatLink
 
-    /opt/gitlab/embedded$ sudo vim service/gitlab-rails/app/assets/javascripts/markdown_area.js.coffee
+    /opt/gitlab/embedded$ sudo vim service/gitlab-rails/app/javascripts/markdown_area.js.coffee
   
     String::endsWith = (s) -> s is '' or @[-s.length..] is s
   
@@ -79,13 +79,13 @@ with
 
 ## Change maximum filesize for uploads
 
-    /opt/gitlab/embedded$ sudo vim service/gitlab-rails/app/assets/javascripts/markdown_area.js.coffee
+    /opt/gitlab/embedded$ sudo vim service/gitlab-rails/app/javascripts/markdown_area.js.coffee
 
 Change line 29. The unit of memory for that value is MiB.
 
 ## Remove dropzone's check
 
-    /opt/gitlab/embedded$ sudo vim service/gem/ruby/2.1.0/gems/dropzonejs-rails-0.4.14/vendor/assets/javascripts/dropzone.js
+    /opt/gitlab/embedded$ sudo vim service/gem/ruby/2.1.0/gems/dropzonejs-rails-0.4.14/vendor/javascripts/dropzone.js
 
     } else if (!Dropzone.isValidFile(file, this.options.acceptedFiles)) {
       return done(this.options.dictInvalidFileType);

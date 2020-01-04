@@ -9,4 +9,4 @@ title: Making My Own Pencilcase
 ---
 This is the first step towards sewing my own bag!
 
-![pencil-case](/assets/images/pencil-case.jpg)
+![pencil-case](/images/pencil-case.jpg)

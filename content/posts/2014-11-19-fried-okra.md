@@ -9,8 +9,8 @@ title: Fried Okra!
 ---
 First try:
 
-![fried-okra-0](/assets/images/fried-okra-0.jpg)
+![fried-okra-0](/images/fried-okra-0.jpg)
 
 Second try:
 
-![fried-okra-1](/assets/images/fried-okra-1.jpg)
+![fried-okra-1](/images/fried-okra-1.jpg)
