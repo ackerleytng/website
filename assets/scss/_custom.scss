@@ -1,0 +1,54 @@
+$color-0: #fbfafa;
+$color-1: #d5c5be;
+$color-2: #d58060;
+$color-3: #5baedb;
+$color-4: #467b99;
+$color-5: black;
+
+
+body {
+  background-color: $color-0;
+
+  h1, h2 {
+    color: $color-4;
+  }
+
+  a {
+    color: $color-3;
+  }
+
+  i.fa-2x {
+    color: $color-1;
+  }
+
+  code {
+    color: $color-5 !important;
+  }
+
+  .highlight pre {
+    background-color: $color-1 !important;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px; /* future proofing */
+    -khtml-border-radius: 10px; /* for old Konqueror browsers */
+  }
+
+  .navigation {
+    a {
+      color: $color-2;
+    }
+  }
+
+  .content {
+    color: $color-4;
+  }
+
+  .footer {
+    font-size: 80%;
+    color: $color-1;
+
+    a {
+      color: $color-2;
+    }
+  }
+}
