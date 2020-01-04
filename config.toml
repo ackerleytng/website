@@ -13,6 +13,9 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "yourdiscussshortname"
 
+# Ignore emacs lock files
+ignoreFiles = ["^\\.#"]
+
 [params]
     author = "Ackerley Tng"
     info = "Software Engineer"
