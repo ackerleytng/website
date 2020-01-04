@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="225.16042mm"
+   height="370.68124mm"
+   viewBox="0 0 225.16042 370.68124"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91+devel+osxmenu r12922"
+   sodipodi:docname="nans.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="124.57732"
+     inkscape:cy="348.82089"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:window-width="1436"
+     inkscape:window-height="855"
+     inkscape:window-x="4"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:snap-text-baseline="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3336"
+       originx="0.13229166"
+       originy="172.11144" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.13229166,-98.430208)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4244"
+       width="224.89583"
+       height="370.41666"
+       x="0"
+       y="98.5625" />
+    <ellipse
+       style="fill:#ffaaaa;stroke:#000000;stroke-width:0.26458332;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3338"
+       cx="79.441147"
+       cy="138.31615"
+       rx="26.392185"
+       ry="26.392191" />
+    <ellipse
+       style="fill:#aaccff;fill-opacity:0.50196078;stroke:#000000;stroke-width:0.26458332;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse3342"
+       cx="145.58699"
+       cy="138.31615"
+       rx="26.392185"
+       ry="26.392191" />
+    <ellipse
+       ry="26.392191"
+       rx="26.392185"
+       cy="138.31615"
+       cx="79.441147"
+       id="ellipse3340"
+       style="fill:#f4d7d7;fill-opacity:0.50196078;stroke:#000000;stroke-width:0.26458332;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="112.44793"
+       y="177.9375"
+       id="text4168"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4170"
+         x="112.44793"
+         y="177.9375"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px">all entries in introduced column are NaNs</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4172"
+       y="138.24998"
+       x="59.531269"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         y="138.24998"
+         x="59.531269"
+         id="tspan4174"
+         sodipodi:role="line">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="165.36461"
+       y="138.24998"
+       id="text4176"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4178"
+         x="165.36461"
+         y="138.24998"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px">b</tspan></text>
+    <ellipse
+       ry="26.392191"
+       rx="26.392185"
+       cy="230.92035"
+       cx="92.670311"
+       id="ellipse4182"
+       style="fill:#ffaaaa;stroke:#000000;stroke-width:0.26458332;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       ry="26.392191"
+       rx="26.392185"
+       cy="230.92035"
+       cx="132.35782"
+       id="ellipse4184"
+       style="fill:#aaccff;fill-opacity:0.50196078;stroke:#000000;stroke-width:0.26458332;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       style="fill:#f4d7d7;fill-opacity:0.50196078;stroke:#000000;stroke-width:0.26458332;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4186"
+       cx="92.670311"
+       cy="230.92035"
+       rx="26.392185"
+       ry="26.392191" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4188"
+       y="270.54169"
+       x="112.44793"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         y="270.54169"
+         x="112.44793"
+         id="tspan4190"
+         sodipodi:role="line"
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0">most entries in introduced column are NaNs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="72.760437"
+       y="230.85419"
+       id="text4192"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4194"
+         x="72.760437"
+         y="230.85419"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px">a</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4196"
+       y="230.85419"
+       x="152.13544"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         y="230.85419"
+         x="152.13544"
+         id="tspan4198"
+         sodipodi:role="line">b</tspan></text>
+    <ellipse
+       style="fill:#ffaaaa;stroke:#000000;stroke-width:0.26458332;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4208"
+       cx="105.89948"
+       cy="323.52448"
+       rx="26.392185"
+       ry="26.392191" />
+    <ellipse
+       style="fill:#aaccff;fill-opacity:0.50196078;stroke:#000000;stroke-width:0.26458332;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4210"
+       cx="119.12865"
+       cy="323.52448"
+       rx="26.392185"
+       ry="26.392191" />
+    <ellipse
+       ry="26.392191"
+       rx="26.392185"
+       cy="323.52448"
+       cx="105.89948"
+       id="ellipse4212"
+       style="fill:#f4d7d7;fill-opacity:0.50196078;stroke:#000000;stroke-width:0.26458332;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="112.44793"
+       y="363.14578"
+       id="text4214"
+       sodipodi:linespacing="125%"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         sodipodi:role="line"
+         id="tspan4216"
+         x="112.44793"
+         y="363.14578"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px">a few entries in introduced column are NaNs</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4218"
+       y="323.45831"
+       x="85.989601"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         y="323.45831"
+         x="85.989601"
+         id="tspan4220"
+         sodipodi:role="line">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="138.90627"
+       y="323.45831"
+       id="text4222"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4224"
+         x="138.90627"
+         y="323.45831"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px">b</tspan></text>
+    <ellipse
+       ry="26.392191"
+       rx="26.392185"
+       cy="416.12857"
+       cx="112.51407"
+       id="ellipse4226"
+       style="fill:#ffaaaa;stroke:#000000;stroke-width:0.26458332;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       ry="26.392191"
+       rx="26.392185"
+       cy="416.12857"
+       cx="112.51407"
+       id="ellipse4228"
+       style="fill:#aaccff;fill-opacity:0.50196078;stroke:#000000;stroke-width:0.26458332;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       style="fill:#f4d7d7;fill-opacity:0.50196078;stroke:#000000;stroke-width:0.26458332;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4230"
+       cx="112.51407"
+       cy="416.12857"
+       rx="26.392185"
+       ry="26.392191" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4232"
+       y="455.74988"
+       x="112.44793"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         y="455.74988"
+         x="112.44793"
+         id="tspan4234"
+         sodipodi:role="line">no NaNs in the introduced column</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="92.604195"
+       y="416.06241"
+       id="text4236"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4238"
+         x="92.604195"
+         y="416.06241"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px">a</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4240"
+       y="416.06241"
+       x="132.29166"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         y="416.06241"
+         x="132.29166"
+         id="tspan4242"
+         sodipodi:role="line">b</tspan></text>
+  </g>
+</svg>
