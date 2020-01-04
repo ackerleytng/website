@@ -19,14 +19,19 @@ ignoreFiles = ["^\\.#"]
 [params]
     author = "Ackerley Tng"
     info = "Software Engineer"
+    blurb = [
+        "Coding is a craft.",
+        "Good code is just enough code;",
+        "concise and idiomatic."
+    ]
     description = "Ackerley Tng's personal website"
     keywords = "blog,developer,engineer,personal"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "/images/avatar.jpg"
 
-    favicon_32 = "/img/favicon-32x32.png"
-    favicon_16 = "/img/favicon-16x16.png"
+    favicon_32 = "/images/favicon-32x32.png"
+    favicon_16 = "/images/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
+    footercontent = ""
 
     hidecredits = false
     hidecopyright = false
@@ -34,7 +39,7 @@ ignoreFiles = ["^\\.#"]
     rtl = false
 
     math = true
-    custom_css = ["css/custom.css"]
+    custom_css = ["/css/custom.css"]
 
 # Social links
 [[params.social]]
