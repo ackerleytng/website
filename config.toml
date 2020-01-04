@@ -44,6 +44,11 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-linkedin fa-2x"
     weight = 2
     url = "https://linkedin.com/in/ackerleytng/"
+[[params.social]]
+    name = "Medium"
+    icon = "fab fa-medium fa-2x"
+    weight = 2
+    url = "https://medium.com/@ackerleytng"
 
 # Menu links
 [[menu.main]]
