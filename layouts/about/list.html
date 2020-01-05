@@ -1,0 +1,14 @@
+{{ define "title" }}
+  {{ .Title }} · {{ .Site.Title }}
+{{ end }}
+{{ define "content" }}
+  <section class="container list about-list">
+    <h1 class="title">{{ .Title }}</h1>
+
+    {{ .Content }}
+
+    {{- range .Pages -}}
+    {{- .Render "item" -}}
+    {{- end -}}
+  </section>
+{{ end }}

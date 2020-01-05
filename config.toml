@@ -61,7 +61,7 @@ ignoreFiles = ["^\\.#"]
     name = "Blog"
     weight = 1
     url  = "/posts/"
-# [[menu.main]]
-#     name = "About"
-#     weight = 2
-#     url = "/about/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
