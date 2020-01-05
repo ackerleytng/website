@@ -20,6 +20,8 @@ Here's pouchie shrugging, the mascot asking [go where ne](https://gowherene.acke
 
 And here's pouchie just being pouchie.
 
+![pouchie](/drawings/pouchie/pouchie.svg)
+
 I used inkscape to draw pouchie, because inkscape is so precise, so keyboard friendly. I also use inkscape for code documentation, when I need to draw pictures.
 
 ### Tree
