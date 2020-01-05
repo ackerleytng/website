@@ -1,2 +1,5 @@
-<i style="margin-right: 10px" class="{{ .Params.Icon }}"></i>
-<a href="{{ .Params.ExternalLink | default .RelPermalink }}">{{ .Title }}</a>
+<div style="margin-left: 1em">
+  <i style="margin-right: 0.5em; width: 1em; text-align: center"
+     class="{{ .Params.Icon }}"></i>
+  <a href="{{ .Params.ExternalLink | default .RelPermalink }}">{{ .Title }}</a>
+</div>
