@@ -16,6 +16,8 @@ icon: "fas fa-leaf"
 
 {{< figure src="/photos/bisti-badlands.jpg" title="Bisti Badlands, New Mexico, Spring 2014" >}}
 
+{{< figure src="/photos/horseshoe-bend.jpg" title="Horseshoe Bend, Arizona, Summer 2014" >}}
+
 {{< figure src="/photos/mt-ijen.jpg" title="Mt Ijen, Indonesia, Fall 2018" >}}
 
 {{< figure src="/photos/mt-bromo.jpg" title="Mt Bromo, Indonesia, Fall 2018" >}}
