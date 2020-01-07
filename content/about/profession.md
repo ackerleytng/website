@@ -10,6 +10,8 @@ Coding is my profession (and it's also a hobby).
 
 I've always liked tinkering with computers. I then studied Electrical and Computer Engineering at Cornell, where professors managed to sell me Computer Architecture as a career. In those college years Computer Architecture was totally my thing; I could see myself optimizing chip design, doing pipelining, moving hot code paths into hardware and letting things just *fly* at an order of magnitude faster than it did in software.
 
+{{< figure src="/photos/beebe-lake.jpg" title="Beebe Lake. From just behind Noyes Lodge, Cornell, Fall 2011" >}}
+
 ### Cybersecurity
 
 Then school ended and I found myself able to apply my understanding of the hardware-software interface at work in cybersecurity. My team audited software and also built custom security solutions for our servers.
@@ -17,6 +19,8 @@ Then school ended and I found myself able to apply my understanding of the hardw
 Auditing the Linux kernel source code and understanding vulnerabilities brought back the good old times from college when we had to step through functions - prolog, body, and epilogs, mentally emulating the stack and heap...
 
 In school, going past the end of allocated memory meant re-writing your program to fix that. In the cybersecurity world, it means continuing to execute in a whole new world. It was fun seeing how people could creatively re/abuse code in other techniques too, such as in return-oriented programming.
+
+{{< figure src="/photos/just-over-the-edge.jpg" title="A Whole New World, Just Over The Edge. La Cueva del Indio, Puerto Rico, Spring 2013" >}}
 
 Work in security gave me a much deeper understanding of operating systems because all those malicious code would just throw system calls out the window and abuse protocols in their own ways to disable protections, get a grip on (address space layout/secret) randomization. They could even execute [allocated code at its physical address](https://cs.brown.edu/~vpk/papers/ret2dir.sec14.pdf)!
 
@@ -33,6 +37,8 @@ So I did online classes:
 
 The paradigm shift from procedural languages was no doubt challenging, but it was a great learning experience, and the r/programming gurus were right - it truly shapes the way one codes. Functional programming forces you to think in components and functions instead of a long series of steps. You're also forced to write small, meaningful functions or lose yourself in your own code. All these are applicable even back in the procedural world. It was totally worth learning.
 
+{{< figure src="/photos/seeing-differently.jpg" title="Seeing Differently. Infinity Mirrored Room, Yayoi Kusama, Crystal Bridges Museum of American Art, Fall 2019" >}}
+
 While doing these courses I found that I really do have an interest in learning languages - and so I figured I'd work upwards to the source - lisp. (And of course I've been drinking from the hackernews and r/programming fountain of kool aid.)
 
 So I dabbled in Common Lisp and Racket, but I felt some sort of disconnect from those. Common Lisp was kind of hard to get started in, and Racket just felt most aligned with DrRacket, but I wanted to stick with Emacs. I still want to learn/use those someday, I just haven't gotten to it yet
@@ -42,6 +48,8 @@ I then stumbled into the welcoming world of Clojure and felt that it just speaks
 Also, I found [clojurians slack](https://clojurians.slack.com/) to be a very helpful and welcoming community where, as a beginner, I was able to find help easily. It also helped that there is a cozy but growing community of clojurians in Singapore that I hang out with, and I've also given talks at our [Clojurians Meetup](https://www.meetup.com/Singapore-Clojure-Meetup/)! I also like it that clojure allows us to ride on the tall shoulders of the Java giant so that we can be productive very quickly using Java libraries.
 
 I've used clojure for a while but I still feel like I'm along the path to the lisp enlightenment. I look forward to understanding and utilizing the full power of macros in lisp.
+
+{{< figure src="/photos/iceland-road.jpg" title="A Long Road. Iceland, Winter 2011" >}}
 
 There are still many other languages I want to learn: Rust, Smalltalk, Erlang, Elixir, Elm, ReasonML, Prolog, Haskell..., and these, properly: golang, Racket, Common Lisp, OCaml, Scala.
 
@@ -65,11 +73,15 @@ I believe in learning. Sending staff for courses is but an introduction to the t
 
 I believe in learning from others and collective improvement. I had the good fortune of having great teammates that I could bounce ideas off, discuss problems and learn from. I wanted this for my teammates, so as a manager, I stood up for having teams of people work on a single problem instead of distributing people over many projects.
 
+{{< figure src="/photos/growing-group.jpg" title="Growing Together. Korea, Spring 2016" >}}
+
 I pushed for the use of our internal testing framework to remove the tedium of testing while improving reproducablity, and emphasized documentation to retain knowledge for future selves and other teammates.
 
 ### Moving up the tech stack
 
 I then felt that I wanted to move up the tech stack, perhaps a little further from the kernel, libc and bash scripting into software engineering for data, using higher level languages, so I transferred into a software engineering role in our of our data analytics teams.
+
+{{< figure src="/photos/moving-up-lassen.jpg" title="Climbing Up. Cinder Cone, Lassen Volcanic National Park, Summer 2013" >}}
 
 In this role, I found that interestingly, code auditing and cybersecurity never leaves you. While building apps, the possible vulnerabilities stood out to me - docker containers with daemons running as root, possible data validation/corruption or misconfiguration issues, ways to spoof credentials/identities/passing the hash...
 
