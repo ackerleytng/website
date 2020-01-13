@@ -6,7 +6,11 @@ icon: "fas fa-camera"
 
 I like taking pictures!
 
+{{< figure src="/photos/gbtb-supertrees.jpg" title="Supertrees, Gardens by the Bay, Singapore, Winter 2013" >}}
+
 {{< figure src="/photos/dry-grass.jpg" title="Dry Grass, Cesar E. Chavez Park, Berkeley Marina, Summer 2013" >}}
+
+{{< figure src="/photos/clean-singapore.jpg" title="No Littering, Singapore, Winter 2017" >}}
 
 {{< figure src="/photos/azure-icicle-chandelier.jpg" title="Azure Icicle Chandelier, Crystal Bridges Museum of American Art, Fall 2019" >}}
 
