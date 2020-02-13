@@ -1,6 +1,6 @@
 ---
 slug: docker-compose-collisions
-date: "2020-02-13:00:00Z"
+date: "2020-02-14T00:04:00+08:00"
 description: docker-compose collisions
 tags:
 - docker
