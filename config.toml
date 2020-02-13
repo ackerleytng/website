@@ -10,7 +10,7 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "ackerleytng"
 
 # Ignore emacs lock files
 ignoreFiles = ["^\\.#"]
