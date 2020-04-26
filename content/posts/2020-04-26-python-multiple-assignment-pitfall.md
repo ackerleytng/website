@@ -113,7 +113,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 Here's a visualization of the progress
 
 | after instruction offset | stack        | notes                  |
-| ---                      | ---          |                        |
+| ------------------------ | -----        | -----                  |
 | 0                        | p            |                        |
 | 2                        | p, rev       |                        |
 | 6                        | p, rev, next |                        |
