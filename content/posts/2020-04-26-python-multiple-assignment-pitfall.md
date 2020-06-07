@@ -112,13 +112,17 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 Here's a visualization of the progress
 
-| after instruction offset | stack        | notes                  |
-| ------------------------ | -----        | -----                  |
-| 0                        | p            |                        |
-| 2                        | p, rev       |                        |
-| 6                        | p, rev, next |                        |
-| 8                        | next, p, rev |                        |
-| 10                       | next, rev, p |                        |
-| 12                       | next, rev    | p stored into rev      |
-| 16                       | next         | rev stored into p.next |
-| 18                       |              | next stored into p     |
+```
+|       after |              |                        |
+| instruction |              |                        |
+|      offset | stack        | notes                  |
+| ----------- | ------------ | ---------------------- |
+|           0 | p            |                        |
+|           2 | p, rev       |                        |
+|           6 | p, rev, next |                        |
+|           8 | next, p, rev |                        |
+|          10 | next, rev, p |                        |
+|          12 | next, rev    | p stored into rev      |
+|          16 | next         | rev stored into p.next |
+|          18 |              | next stored into p     |
+```
