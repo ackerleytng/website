@@ -62,4 +62,23 @@ body {
       color: $color-2;
     }
   }
+
+  table {
+    td, th {
+      border: 0;
+      padding: 0.7em;
+    }
+
+    thead {
+      tr {
+        border-bottom: 1.5px solid #ccc;
+      }
+    }
+
+    tbody {
+      tr {
+        border-bottom: 1px solid #ccc;
+      }
+    }
+  }
 }
